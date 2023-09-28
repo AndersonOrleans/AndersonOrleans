@@ -7,7 +7,7 @@
 
 
 #### Você também pode me encontrar em:
-<a href="https://www.linkedin.com/feed/">
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
