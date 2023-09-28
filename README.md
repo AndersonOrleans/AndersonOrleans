@@ -7,7 +7,7 @@
 
 
 #### Você também pode me encontrar em:
-<a href="https://www.linkedin.com/in/andersondorleans/">
+<a href="www.linkedin.com/in/andersondorleans">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
